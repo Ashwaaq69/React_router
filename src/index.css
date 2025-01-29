@@ -65,4 +65,15 @@ a.active{
   font-weight: 500;
   
 }
+
+
+.contact-buttons{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  padding-bottom: 20px;
+  gap: 20px;
+
+}
   
