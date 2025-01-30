@@ -1,0 +1,34 @@
+{
+    "jobs": [
+        {
+            "id": 1,
+            "title": "Software Developer",
+            "salary": 80000,
+            "location": "New York, NY"
+        },
+        {
+            "id": 2,
+            "title": "Data Scientist",
+            "salary": 90000,
+            "location": "San Francisco, CA"
+        },
+        {
+            "id": 3,
+            "title": "Product Manager",
+            "salary": 95000,
+            "location": "Austin, TX"
+        },
+        {
+            "id": 4,
+            "title": "UX Designer",
+            "salary": 85000,
+            "location": "Seattle, WA"
+        },
+        {
+            "id": 5,
+            "title": "DevOps Engineer",
+            "salary": 92000,
+            "location": "Boston, MA"
+        }
+    ]
+}
